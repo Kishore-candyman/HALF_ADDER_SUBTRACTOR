@@ -80,10 +80,13 @@ Developed by: M. KISHORE
 RegisterNumber:24900763
 
 **RTL Schematic**
+
 HALF ADDER
+
 ![halfadder RTL VIEW de exp3](https://github.com/user-attachments/assets/7e641cf5-e055-4af8-9f3f-61f066614823)
 
 HALF SUBTRACTOR
+
 ![half subtractor RTL VIEW de exp3a](https://github.com/user-attachments/assets/9c81295f-60fc-4dd1-bb62-9c99da08e944)
 
 **Output/TIMING Waveform**
