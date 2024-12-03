@@ -83,18 +83,24 @@ RegisterNumber:24900763
 
 HALF ADDER
 
-![halfadder RTL VIEW de exp3](https://github.com/user-attachments/assets/7e641cf5-e055-4af8-9f3f-61f066614823)
+![Screenshot 2024-12-03 134254](https://github.com/user-attachments/assets/8d49f6b2-aced-4ab2-a0df-261f2b00ca75)
+
 
 HALF SUBTRACTOR
 
-![half subtractor RTL VIEW de exp3a](https://github.com/user-attachments/assets/9c81295f-60fc-4dd1-bb62-9c99da08e944)
+![Screenshot 2024-12-03 135007](https://github.com/user-attachments/assets/2ff5648a-f696-42be-9b1f-b99a70b0f656)
+
 
 **Output/TIMING Waveform**
 HALF ADDER
-![halfadder WAVEFORM de exp3](https://github.com/user-attachments/assets/405d7642-0ad5-48fa-8f2d-38caba02ce08)
+
+![Screenshot (26)](https://github.com/user-attachments/assets/37060533-2b02-4c3e-a563-e52558709fee)
+
 
 HALF SUBTRACTOR
-![halfsubtractor WAVEFORM de exp3a](https://github.com/user-attachments/assets/8a48d6f7-8fb7-4fd0-9966-f0d71f8cda97)
+
+![Screenshot (28)](https://github.com/user-attachments/assets/286bdb39-db04-4cdc-a0bd-83f2cb030ec3)
+
 
 **Result:**
-Thus the half adder and hald subtractor circuit and its truth table are verified
+Thus the half adder and half subtractor circuit and its truth table are verified by Quartus software.
